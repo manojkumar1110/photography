@@ -1,0 +1,21 @@
+
+.row img{
+     height: 250px;
+     width: 310px;
+     padding-bottom: 30px;
+
+}
+.row img:hover{
+transform: scale(1.1,1.1);
+}
+button:hover{
+     color: black;
+}
+h1:hover{
+     color: #27A776;
+
+}
+h1:visited{
+     color: orangered;
+}
+
